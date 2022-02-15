@@ -1,0 +1,30 @@
+    body {
+        background-image: url("image.jpg");
+        background-size: 100%;
+    }
+    
+    div {
+        background-color: black;
+        margin-left: 40%;
+    }
+    
+    h1 {
+        display: block;
+        color: white;
+        font-size: 40px;
+        margin-left: 2%;
+    }
+    
+    h2 {
+        margin-left: 40%;
+        border-top: dotted;
+        border-bottom: dashed;
+        border-left: solid;
+        border-right: solid;
+        font-size: 15px;
+    }
+    
+    p {
+        font-size: 18px;
+        margin-left: 5%;
+    }
